@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.weatherapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:7:5-34:19
+14        android:allowBackup="true"
+14-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\Dimon\.gradle\caches\transforms-3\5f5e792acd1d8373e906efd73c4b888f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:12:9-35
+21        android:theme="@style/Theme.WeatherApp" >
+21-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:13:9-48
+22        <activity
+22-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:14:9-18:20
+23            android:name="com.example.weatherapp.WeatherHistoryActivity"
+23-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:15:13-51
+24            android:exported="true" >
+24-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:16:13-36
+25        </activity>
+26        <activity
+26-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:19:9-27:20
+27            android:name="com.example.weatherapp.SplashScreen"
+27-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:20:13-41
+28            android:exported="true" >
+28-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:21:13-36
+29            <intent-filter>
+29-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:22:13-26:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:23:17-69
+30-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:23:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:25:17-77
+32-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:25:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:28:9-30:39
+36            android:name="com.example.weatherapp.Screen1"
+36-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:29:13-36
+37            android:exported="true" />
+37-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:30:13-36
+38        <activity
+38-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:31:9-33:48
+39            android:name="com.example.weatherapp.Screen2"
+39-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:32:13-36
+40            android:exported="true" />
+40-->C:\Users\Dimon\Desktop\WeatherApp_Android-master\app\src\main\AndroidManifest.xml:33:13-36
+41
+42        <service
+42-->[androidx.room:room-runtime:2.3.0] C:\Users\Dimon\.gradle\caches\transforms-3\114c27d1ecdc2eb438c615ae608545f5\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+43            android:name="androidx.room.MultiInstanceInvalidationService"
+43-->[androidx.room:room-runtime:2.3.0] C:\Users\Dimon\.gradle\caches\transforms-3\114c27d1ecdc2eb438c615ae608545f5\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+44            android:directBootAware="true"
+44-->[androidx.room:room-runtime:2.3.0] C:\Users\Dimon\.gradle\caches\transforms-3\114c27d1ecdc2eb438c615ae608545f5\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+45            android:exported="false" />
+45-->[androidx.room:room-runtime:2.3.0] C:\Users\Dimon\.gradle\caches\transforms-3\114c27d1ecdc2eb438c615ae608545f5\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dimon\.gradle\caches\transforms-3\883c8571d9900e72cce7dfb06c6e0c4b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dimon\.gradle\caches\transforms-3\883c8571d9900e72cce7dfb06c6e0c4b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+49            android:authorities="com.example.weatherapp.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dimon\.gradle\caches\transforms-3\883c8571d9900e72cce7dfb06c6e0c4b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dimon\.gradle\caches\transforms-3\883c8571d9900e72cce7dfb06c6e0c4b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dimon\.gradle\caches\transforms-3\883c8571d9900e72cce7dfb06c6e0c4b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dimon\.gradle\caches\transforms-3\883c8571d9900e72cce7dfb06c6e0c4b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Dimon\.gradle\caches\transforms-3\883c8571d9900e72cce7dfb06c6e0c4b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Dimon\.gradle\caches\transforms-3\c761cbdefd74fb3955bd84ec83922caa\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Dimon\.gradle\caches\transforms-3\c761cbdefd74fb3955bd84ec83922caa\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Dimon\.gradle\caches\transforms-3\c761cbdefd74fb3955bd84ec83922caa\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+57        </provider>
+58    </application>
+59
+60</manifest>
