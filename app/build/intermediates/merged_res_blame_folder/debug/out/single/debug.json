@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_t05d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\t05d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_d02n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\d02n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s03n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s03n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_wind_speed.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\wind_speed.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_c04d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\c04d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r05d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r05d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_back_icon.xml.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s06n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s06n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_t02d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\t02d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\raw_clouds_animi.json.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\raw\\clouds_animi.json"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a04d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a04d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_d03d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\d03d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_t04n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\t04n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_screen1.xml.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\layout\\activity_screen1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s06d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s06d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r02d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r02d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a03n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a03n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a04n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a04n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_c04n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\c04n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_u00n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\u00n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s03d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s03d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_u00d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\u00d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_clouds.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\ic_clouds.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_t01n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\t01n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r02n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r02n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a06d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a06d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s02n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s02n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_t02n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\t02n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a06n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a06n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r01d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r01d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s01d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s01d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s01n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s01n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r01n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r01n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a05d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a05d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_t01d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\t01d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s05d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s05d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_t03n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\t03n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a05n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a05n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a02n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a02n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_d01d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\d01d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r06n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r06n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_f01d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\f01d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s02d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s02d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a03d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a03d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_d01n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\d01n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\layout_weather_recycler_view.xml.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\layout\\weather_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r06d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r06d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_f01n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\f01n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_wind_direction.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\wind_direction.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_c03d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\c03d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_weather_history.xml.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\layout\\activity_weather_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r03n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r03n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_t03d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\t03d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a02d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a02d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_c02d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\c02d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r03d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r03d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_pressure.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_screen2.xml.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\layout\\activity_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_c03n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\c03n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r04n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r04n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s04n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s04n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_d03n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\d03n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_t04d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\t04d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_c01n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\c01n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a01n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a01n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_humidity.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s04d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s04d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\raw_clouds_sun_animi.json.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\raw\\clouds_sun_animi.json"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_c01d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\c01d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r04d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r04d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_r05n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\r05n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_d02d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\d02d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_t05n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\t05n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_a01d.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\a01d.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s05n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\s05n.png"
+    },
+    {
+        "merged": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_c02n.png.flat",
+        "source": "C:\\Users\\Dimon\\Desktop\\WeatherApp_Android-master\\app\\src\\main\\res\\drawable-v24\\c02n.png"
+    }
+]
