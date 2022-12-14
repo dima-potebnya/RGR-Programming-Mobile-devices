@@ -1,0 +1,23 @@
+com/example/weatherapp/BuildConfig.java
+ com.example.weatherapp.BuildConfig
+com/example/weatherapp/Screen1.java
+ com.example.weatherapp.Screen1
+com/example/weatherapp/db/entities/cityWeather.java
+ com.example.weatherapp.db.entities.cityWeather
+com/example/weatherapp/db/entities/cityName.java
+ com.example.weatherapp.db.entities.cityName
+com/example/weatherapp/db/dao/cityDAO.java
+ com.example.weatherapp.db.dao.cityDAO
+com/example/weatherapp/db/WeatherDatabase.java
+ com.example.weatherapp.db.WeatherDatabase
+com/example/weatherapp/SplashScreen.java
+ com.example.weatherapp.SplashScreen
+com/example/weatherapp/Screen2.java
+ com.example.weatherapp.Screen2
+com/example/weatherapp/Adapter/WeatherAdapter.java
+ com.example.weatherapp.Adapter.WeatherAdapter
+ com.example.weatherapp.Adapter.WeatherAdapter$1
+ com.example.weatherapp.Adapter.WeatherAdapter$MyViewHolder
+com/example/weatherapp/WeatherHistoryActivity.java
+ com.example.weatherapp.WeatherHistoryActivity
+ com.example.weatherapp.WeatherHistoryActivity$1
